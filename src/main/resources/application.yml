@@ -1,0 +1,15 @@
+server:
+  port: 80
+
+user:
+  - name: zs
+    age: 12
+  - name: lisi
+    age: 18
+
+username: houjiaqi
+
+vip:
+  name: xiaolizi
+  age: 23
+  hobby: anxious
